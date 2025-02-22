@@ -15,7 +15,7 @@
      
 ## Requirements
 - Ensure that you have `GNU make` installed on your system.
-- SDL3 should be installed before running the project. (link to download : https://github.com/libsdl-org/SDL/releases/tag/release-3.2.4)
+- Download SDL3 before running the project. (link to download : https://github.com/libsdl-org/SDL/releases/tag/release-3.2.4)
 
 ## Notes
 - If you encounter any issues, check for missing dependencies or incorrect directory paths.
